@@ -179,6 +179,23 @@ h4 {
     margin-top: 40px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1f2937;
+    color: #f9faf8;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+
+
+
+
 
 
 
