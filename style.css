@@ -138,6 +138,48 @@ button {
     margin-left: 200px;
 }
 
+.lower-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.low-card {
+    display: flex;
+    background: #3882f6;
+    font-size: 18px;
+    color: #e5e7eb;
+    gap: 50px;
+    padding: 31px;
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+h4 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+#batera {
+    background: #3882f6;
+    color: #e5e7eb;
+    border: 2px solid #f9faf8;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 35px;
+    padding-right: 35px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+
 
 
 
